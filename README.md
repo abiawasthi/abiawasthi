@@ -1,3 +1,4 @@
+# Non Fungible
 - 👋 Hi, I’m Abi
 - 👀 I’m interested in Data, Finance, Investments, web3, blockchain, non fungible
 - 🌱 I’m currently learning decision science and business intelligence
