@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building a stock backtest model
 - 🌱 I’m currently learning - data science and business intelligence
 - 💬 Ask me about - python, SQL
-- 🥅 2020 Goal - collaborate with web3 developers
+- 🥅 2022 Goal - collaborate with web3 developers
 - ⚡ Fun fact - corny jokes
 
 
