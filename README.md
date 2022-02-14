@@ -2,11 +2,11 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on building a stock backtest model
+- 🔭 I’m currently learning to create story out of Data
 - 🌱 I’m currently learning - data science and business intelligence
-- 💬 Ask me about - python, SQL
-- 🥅 2022 Goal - collaborate with web3 developers
-- ⚡ Fun fact - corny jokes
+- 💬 Ask me about - python, SQL and Tableau
+- 🥅 2022 Goal - collaborate with data Artists
+- ⚡ Fun fact - climbed Guadalupe peak, elevated 8,751 feet above sea level
 
 
 ## Connect with me:
