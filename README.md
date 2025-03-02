@@ -5,6 +5,8 @@
 - 🔭 I’m learning to create story out of Data
 - 🌱 I’m  learning - data science and business intelligence
 - 💬 Ask me about - python, SQL, Azure, Tableau
+- Building power apps, power automate workflows
+- alteryx
 
 
 ## Connect with me:
@@ -13,5 +15,4 @@
 <br />
 
 <!-- This section you create variables that are used above -->
-[twitter]: https://twitter.com/upperhand10
 [linkedin]: https://www.linkedin.com/in/abi-awasthi-0b5018171/
